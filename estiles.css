@@ -1,0 +1,22 @@
+body {
+    background-color: #fafafa;
+    font-family: 'Franklin Gothic Medium'
+}
+#banner {
+    text-align: center;
+    background-color: rgb(255, 149, 199);
+    padding: 200px;
+    font-size: 70px;
+    font-family: ;
+    
+}
+
+.texto {
+    font-size: 100px;
+}
+
+.opcopes {
+    border-radius: 10px;
+    border: 2px solid;
+    
+}
